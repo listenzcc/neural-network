@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "random connection"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"scatterplot",
+			"tqdm",
+			"triplot"
+		]
+	}
+}
